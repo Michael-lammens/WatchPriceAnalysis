@@ -1,5 +1,4 @@
 */__pycache__/*
-# Django #
 *.log
 .idea
 *.pot
@@ -8,3 +7,4 @@ __pycache__
 db.sqlite3
 media
 venv
+.DS_Store
