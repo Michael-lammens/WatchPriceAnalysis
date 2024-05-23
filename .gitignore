@@ -1,0 +1,10 @@
+*/__pycache__/*
+# Django #
+*.log
+.idea
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+venv
